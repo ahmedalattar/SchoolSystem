@@ -1,0 +1,105 @@
+html, body {
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #80DEEA;
+}
+
+.form {
+	border-radius: 50px;
+	border: 5px dashed fuchsia;
+	padding: 20px;
+	margin: 20px auto;
+	width: 400px;
+	height: 590px;
+	line-height: 25px;
+	box-sizing: border-box;
+}
+
+.firstname {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 60px;
+	height: 40px;
+	width: 250px;
+	background-color: #80DEEA;
+	border-radius: 20px;
+	border: 1px solid #00838F;
+	margin-top: 30px;
+}
+
+.lastname {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 60px;
+	height: 40px;
+	width: 250px;
+	background-color: #80DEEA;
+	border-radius: 20px;
+	border: 1px solid #00838F;
+}
+
+.studentclass {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 60px;
+	height: 40px;
+	width: 250px;
+	background-color: #80DEEA;
+	border-radius: 20px;
+	border: 1px solid #00838F;
+}
+
+.age {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 60px;
+	height: 40px;
+	width: 250px;
+	background-color: #80DEEA;
+	border-radius: 20px;
+	border: 1px solid #00838F;
+}
+
+.error {
+	
+	margin:20px auto;
+	margin-top:-150px;
+	width: 200px;
+	height: 100px;
+}
+
+.error1 {
+	color: red;
+}
+
+.error2 {
+	display: block;
+	color: red;
+}
+
+.error3 {
+	display: block;
+	color: red;
+}
+
+.error4 {
+	clear: all;
+	color: red;
+}
+
+.add-button {
+	border: 1px solid #666;
+	border-radius: 5px;
+	margin-top: 30px;
+	margin-left: 30%;
+	font-size: 12px;
+	font-weight: bold;
+	width: 120px;
+	padding: 5px 10px;
+	margin-bottom: 200px;
+	background: #cccccc;
+}
+
+.add-button:HOVER {
+	color: gray;
+}
